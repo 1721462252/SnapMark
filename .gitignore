@@ -1,6 +1,8 @@
 .superpowers/
+.claude/
 bin/
 obj/
 artifacts/
 *.csproj.user
 docs/superpowers/
+docs/handoffs/
