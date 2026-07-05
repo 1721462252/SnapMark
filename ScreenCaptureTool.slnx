@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/ScreenCaptureTool.Tests/ScreenCaptureTool.Tests.csproj" />
+  </Folder>
+</Solution>

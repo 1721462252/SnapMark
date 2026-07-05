@@ -1,0 +1,6 @@
+.superpowers/
+bin/
+obj/
+artifacts/
+*.csproj.user
+docs/superpowers/
